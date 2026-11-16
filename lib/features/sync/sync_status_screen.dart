@@ -197,3 +197,4 @@ class _SyncStatusScreenState extends ConsumerState<SyncStatusScreen> {
     );
   }
 }
+

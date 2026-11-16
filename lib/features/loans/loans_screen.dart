@@ -194,3 +194,4 @@ class _LoansScreenState extends State<LoansScreen> with SingleTickerProviderStat
     );
   }
 }
+

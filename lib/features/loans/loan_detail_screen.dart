@@ -355,3 +355,4 @@ class _LoanDetailScreenState extends State<LoanDetailScreen> {
     );
   }
 }
+
